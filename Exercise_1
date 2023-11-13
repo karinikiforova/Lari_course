@@ -1,3 +1,9 @@
-1
-2
-3
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <title>Первая страница</title>
+    </head>
+    <body>
+        Привет, <u><b>мир!</b></u> <br> Я <a href="https://dh.itmo.ru/">здесь</a> учусь.
+    </body>
+</html>

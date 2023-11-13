@@ -1,0 +1,36 @@
+img {
+    float: right;
+    width: 300px;
+    border: 20px groove grey;
+}
+.center {
+    text-align: center;
+}    
+.colorful {
+    background: linear-gradient(to right, white, grey, black);
+    padding: 5px;
+}
+.black-text {
+    color: black;
+}
+
+.grey-text {
+    color: grey;
+}
+
+.white-text {
+    color: white;
+}
+.verse:nth-child(odd) {
+    font-family: serif;
+}
+.verse:nth-child(even){
+    font-family: monospace;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 30px;
+}

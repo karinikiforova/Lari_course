@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Below the Clavicle by Eartheater</title>
+    <link rel="stylesheet" href="song_style.css">
+</head>
+
+<body>
+<div> 
+
+    <header class="center colorful">
+        <h1>    
+            <span class="black-text">Below</span>
+            <span class="grey-text"> the</span>
+            <span class="white-text">Clavicle</span>
+        </h1>
+    </header>
+    
+    <div class="center verse">
+        <p>Come back to me and take me riding</p>
+        <p>Let's just get physical don't wanna talk</p>
+        <p>There's a lump at the base</p>
+        <p>Stuck in the middle of my clavicle</p>
+        <br>
+    </div>
+    
+    <div class="center verse">
+        <p>I'm a clever girl</p>
+        <p>To keep my mouth shut</p>
+        <p>The meaning hasn't come up yet</p>
+        <p>It's still under the surface</p>
+        <p>Below the clavicle</p>
+        <p>Below the clavicle</p>
+        <br>
+    </div>
+    
+    <div class="center verse">
+        <p>I'll wait cats got my bait</p>
+        <p>Severed on a plate</p>
+        <p>Worst would be to regret</p>
+        <p>What I said</p>
+        <br>
+    </div>
+    
+    <div class="center verse">
+        <p>Quiet as the blood on my bed</p>
+        <p>Quiet as the blood on my bed</p>
+        <p>Below the clavicle</p>
+        <p>Below the clavicle</p>
+        <br>
+    </div>
+
+    <div class="center verse">
+        <p>Come back to me and take me riding</p>
+        <p>Let's just get physical don't wanna talk</p>
+        <p>There's a lump at the base</p>
+        <p>Stuck in the middle of my clavicle</p>
+        <br>
+    </div>
+    
+    <div class="center verse">
+        <p>I'm a clever girl</p>
+        <p>To keep my mouth shut</p>
+        <p>The meaning hasn't come up yet</p>
+        <p>It's still under the surface</p>
+        <p>Below the clavicle</p>
+        <p>Below the clavicle</p>
+        <br>
+    </div>
+    
+</div>
+      <div class="center">
+            <img src="https://i.discogs.com/EvVDigwcISnBsg08Ta8K42cipGcAQN21Svp-tOXAZy4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQw/ODc4LTE1ODk5OTU2/NjQtODQyMi5qcGVn.jpeg" alt="Album Cover">
+        </div>
+        
+    
+</body>
+</html>
