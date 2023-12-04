@@ -1,0 +1,34 @@
+body {
+    background-color: white;
+    padding: 5px 25px;
+    text-align: left;
+}
+
+.logo {
+    width: 100px;
+    padding: 5px;
+    left: 0;
+    position: absolute;
+}
+
+.header {
+    position: relative;
+    text-align: center;
+    text-size-adjust: 96;
+}
+
+.footer {
+    text-size-adjust: 8;
+    height: 80px;
+}
+
+.banner {
+    background-color: whitesmoke;
+    height: fit-content;
+}
+
+.link-text {
+    text-decoration: overline;
+    color: purple;
+    float: right;
+}
